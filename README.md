@@ -17,13 +17,13 @@ In this lab, we perform **Computed Tomography (CT) reconstruction** using the **
 ## 📷 Screenshots
 
 ### **Original Brain Image**
-![Original Brain Image](Screenshot%202025-04-04%20114552.png)
+![Original Brain Image](Screenshot%202025-04-04%20114650.png)
 
 ### **Sinogram of Brain Image**
 ![Sinogram of Brain Image](Screenshot%202025-04-04%20114629.png)
 
 ### **Reconstructed Images**
-![Reconstructed Images](Screenshot%202025-04-04%20114650.png)
+![Reconstructed Images](Screenshot%202025-04-04%20114552.png)
 
 ---
 
